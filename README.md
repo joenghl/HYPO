@@ -6,7 +6,7 @@ It is easy for readers to repetition the results in the main article in the wide
 ## Setup
 
 You can install the Python liblaries by following the `requirements.txt` with Python 3.7.
-Nota that there are several components which are required to install manually (e.g., the MoJoCo).
+Note that there are several components which are required to install manually (e.g., the MoJoCo).
 
 ## Example
 
