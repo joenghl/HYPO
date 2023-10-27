@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="root@172.18.232.25:9022 agent" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
-    <option name="confirmBeforeUploading" value="false" />
+  <component name="PublishConfigData">
     <serverData>
       <paths name="Server1-Football">
         <serverdata>
@@ -18,6 +17,13 @@
         </serverdata>
       </paths>
       <paths name="Server4-Docker-GAIL">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Server6-Docker-HYPO">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
@@ -55,14 +61,14 @@
       <paths name="root@172.18.232.25:9022 agent">
         <serverdata>
           <mappings>
-            <mapping deploy="/workspace/win/HYPO" local="$PROJECT_DIR$" />
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
       <paths name="root@172.18.232.25:9022 password">
         <serverdata>
           <mappings>
-            <mapping deploy="/workspace/win/HYPO" local="$PROJECT_DIR$" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
@@ -81,6 +87,5 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
