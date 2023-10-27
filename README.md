@@ -54,3 +54,6 @@ python train_hypo.py \
   --env_eval HalfCheetah-v2 \
   --seed 0
 ```
+
+## Reference
+[1] https://github.com/toshikwa/gail-airl-ppo.pytorch
