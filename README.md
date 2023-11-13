@@ -57,6 +57,8 @@ python train_hypo.py \
 
 ### Results
 
+The main results in MuJoCo simulation:
+
 ![](https://github.com/joenghl/HYPO/blob/master/assets/mujoco_main.jpg?raw=true)
 
 ## Reference
