@@ -57,9 +57,7 @@ python train_hypo.py \
 
 ### Results
 
-![](https://github.com/joenghl/HYPO/blob/a31b8ee86a2ba52083cdf9d3f2f29eda7eb73ca2/assets/mujoco_main.pdf)
-
-
+![](https://github.com/joenghl/HYPO/blob/master/assets/mujoco_main.jpg?raw=true)
 
 ## Reference
 
