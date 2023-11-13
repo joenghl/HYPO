@@ -55,7 +55,14 @@ python train_hypo.py \
   --seed 0
 ```
 
+### Results
+
+![](https://github.com/joenghl/HYPO/blob/a31b8ee86a2ba52083cdf9d3f2f29eda7eb73ca2/assets/mujoco_main.pdf)
+
+
+
 ## Reference
+
 [1] HYPO Paper: https://openreview.net/forum?id=LftAvFt54C
 
 [2] https://github.com/toshikwa/gail-airl-ppo.pytorch
