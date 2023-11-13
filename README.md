@@ -56,6 +56,6 @@ python train_hypo.py \
 ```
 
 ## Reference
-[1] Papers: https://openreview.net/forum?id=LftAvFt54C
+[1] HYPO Paper: https://openreview.net/forum?id=LftAvFt54C
 
 [2] https://github.com/toshikwa/gail-airl-ppo.pytorch
