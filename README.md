@@ -61,6 +61,11 @@ The main results in MuJoCo simulation:
 
 ![](https://github.com/joenghl/HYPO/blob/master/assets/mujoco_main.jpg?raw=true)
 
+Performance of the baselines:
+
+- LOGO: The results of LOGO were directly conducted using the publicly available LOGO [source code](https://github.com/DesikRengarajan/LOGO), without any modifications. The key point is that, the number samples(x-axis) and the quality (performance and number) of the  trajectories are different in this setting.
+- GAIL & POfD: This two algorithms work well with lots of high-cumulative-return trajectories using this [PyTorch implementation](https://github.com/toshikwa/gail-airl-ppo.pytorch), but they are affected susceptibly by the quality of data.
+
 ## Reference
 
 [1] HYPO Paper: https://openreview.net/forum?id=LftAvFt54C
